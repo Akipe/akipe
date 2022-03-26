@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Akipe on the internet, or Julien Milletre outside, I like to discover and browse everything related to digital.
 
+- 🌱 I’m currently training to become a developer
+- 🔭 I’m currently working on my personal website, self host web services, learning modding Android, and a lot of other stuff... 
+- 📫 How to reach me: https://fr.linkedin.com/in/milletrejulien
 <!--
 **Akipe/akipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
